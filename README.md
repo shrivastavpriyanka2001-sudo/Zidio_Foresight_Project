@@ -52,7 +52,7 @@ An AI-powered Data Analytics and Machine Learning project designed to improve in
 - 📦 Inventory Insights
 
 
-## 👩‍💻 My Contribution (Member 2)
+## 👩‍💻 My Contribution 
 - ✔ Imported the dataset
 - ✔ Performed data cleaning
 - ✔ Handled missing values
